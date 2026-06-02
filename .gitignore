@@ -1,2 +1,6 @@
 # Reasonix 技能目录
 skills/
+
+# Python 缓存
+__pycache__/
+*.pyc
