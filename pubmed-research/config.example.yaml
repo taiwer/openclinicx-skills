@@ -1,0 +1,15 @@
+ncbi_api_key: "<YOUR_NCBI_API_KEY>"
+ncbi_admin_email: "<YOUR_EMAIL_OPTIONAL>"
+ncbi_tool_identifier: "pubmed-research-skill"
+ncbi_request_delay_ms: 334
+ncbi_timeout_ms: 30000
+ncbi_max_retries: 4
+
+unpaywall_email: "<YOUR_EMAIL_FOR_UNPAYWALL_OPTIONAL>"
+unpaywall_timeout_ms: 20000
+
+europepmc_enabled: true
+europepmc_email: "<YOUR_EMAIL_OPTIONAL>"
+europepmc_timeout_ms: 20000
+europepmc_request_delay_ms: 200
+europepmc_max_retries: 3
